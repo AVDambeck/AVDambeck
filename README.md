@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @AVDambeck!
-- 👀 I’m interested in art
-- 🌱 I’m currently learning aaaaaaaa
-- 💞️ I’m looking for a job
-- 📫 How to reach me AudioVideo@Dambeck.org
+Hi I'm AV. I'm a multimedia artist, and I can speak a little bit of computer. You can reach me on insta @AVDambeck. 
 
 <!---
 AVDambeck/AVDambeck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
