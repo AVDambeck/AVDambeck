@@ -1,4 +1,4 @@
-Hi I'm AV. I'm a multimedia artist, and I can speak a little bit of computer. You can reach me on insta @AVDambeck. 
+Hi I'm AV. I am an artist and tech enthusiest. o toki pona tawa mi.
 
 <!---
 AVDambeck/AVDambeck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
